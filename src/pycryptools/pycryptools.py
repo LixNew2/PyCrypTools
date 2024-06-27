@@ -140,7 +140,7 @@ def sign_file(file_path, certificate_path, certificate_pdw, encryption_algorithm
         raise FileNotFoundError(f"The certificate at {certificate_path} does not exist.")
     
     # Check if the encryption algorithm is valid
-    if encryption_algorithm not in ["SHA1", "SHA2", "MD5", "RSA", "SHA256", "SHA384", "SHA512", "ECDSA, DSA"]:
+    if encryption_algorithm not in ["SHA1", "SHA256", "SHA384", "SHA512"]:
         raise ValueError(f"Invalid encryption algorithm: {encryption_algorithm}")
     
     # Check if the file is already signed
