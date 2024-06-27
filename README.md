@@ -1,6 +1,6 @@
 # PyCrypTools
 
-[![Downloads](https://static.pepy.tech/badge/PyCrypTools)](https://pepy.tech/projects/PyCrypTools)
+[![Downloads](https://img.shields.io/pepy/dt/PyCrypTools)](https://pypi.org/project/PyCrypTools/)
 [![Version](https://img.shields.io/pypi/v/PyCrypTools)](https://pypi.org/project/PyCrypTools/)
 [![Python Version](https://img.shields.io/pypi/pyversions/PyCrypTools)](https://pypi.org/project/PyCrypTools/)
 
