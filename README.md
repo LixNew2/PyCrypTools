@@ -1,8 +1,8 @@
 # PyCrypTools
 
-[![Downloads](https://static.pepy.tech/badge/sysall)](https://pepy.tech/project/sysall)
-[![Version](https://img.shields.io/pypi/v/sysall)](https://pypi.org/project/sysall/)
-[![Python Version](https://img.shields.io/pypi/pyversions/sysall)](https://pypi.org/project/sysall/)
+[![Downloads](https://static.pepy.tech/badge/PyCrypTools)](https://pepy.tech/projects/PyCrypTools)
+[![Version](https://img.shields.io/pypi/v/PyCrypTools)](https://pypi.org/project/PyCrypTools/)
+[![Python Version](https://img.shields.io/pypi/pyversions/PyCrypTools)](https://pypi.org/project/PyCrypTools/)
 
 PyCrypTools is a library that provides various cryptography tools for Python.
 It provides functionalities to verify and sign files, as well as encrypt and decrypt files using AES in CBC mode.
