@@ -4,7 +4,7 @@ It provides functionalities to verify and sign files, as well as encrypt and dec
 """
 
 __copyright__  = """
-Copyright (c) 2023 LixNew; lixnew2@gmail.com
+Copyright (c) 2024 LixNew; lixnew2@gmail.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
