@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="PyCrypTools",
-    version="1.0.0",
+    version="1.0.3",
     author="LixNew",
     author_email="lixnew2@gmail.com",
     description="A simple cryptography tools library for Python.",
